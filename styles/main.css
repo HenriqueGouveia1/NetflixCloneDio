@@ -12,8 +12,8 @@
 body{
     background-color: var(--preto);
     font-family: 'Times New Roman', Times, serif;
+    color: rgb(255, 255, 255);
 }
-
 
 header .container{
   display: flex;
@@ -33,4 +33,25 @@ header nav a{
     margin-right: 10px;
     text-decoration: none;
     color: #AAA;
+}
+
+/* Filme principal abauxi */
+.filme-principal{
+    font-size: 16px;
+    height: 400px;
+    background-size: cover;
+    background: linear-gradient(rgba(0,0,0,.50),rgba(0,0,0,.50)100%);
+    background: url(https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/04/Sombra-e-ossos-divulgacao.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.filme-principal .descricao{
+    margin-bottom: 40px;
+}
+
+.titulo{
+    font-size: 40px;
 }
