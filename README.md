@@ -1,2 +1,2 @@
 # NetflixCloneDio
-Famoso exercício de clonar a Netflix que sempre me esquivei de fazer haha. Agora vou tentar relembrar e aprimorar alguns conceitos. 
+Famoso exercício de clonar a Netflix que sempre me esquivei de fazer haha. Agora vou tentar relembrar e aprimorar alguns conceitos utilizando tecnologias simples como HTML5, CSS3 e JavaScript. Aprendi como estruturar melhor um layout, algumas técnicas de CSS3 com containers e variáveis que eu não saboa, como posicionar os elementos com Flexbox de maneira mais otimizada e como utilizar plugins JQuery a favor da sua aplicação.
